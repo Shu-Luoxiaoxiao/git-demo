@@ -1,6 +1,3 @@
 shu hello
 shu hello
-shu hello
-shu hello
-shu hello
-shu hello
+changed by lxx in 20270620
